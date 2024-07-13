@@ -46,7 +46,6 @@ body {
     align-self: center;
     font-size: 50px;
     text-align: center;
-
 }
 
 .bottom-text {
@@ -134,4 +133,27 @@ body {
     margin-right: 0;
     max-width: 1000px;
     margin-top: 20px;
+}
+
+label{
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    max-width: 1000px;
+    margin-left: 250px;
+    margin-right: 0;
+    width: 100%;
+}
+
+input {
+    background: #fff;
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    padding: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 250px;
 }
